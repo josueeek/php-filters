@@ -17,7 +17,7 @@ and order the records by age in descending order, all without you having to writ
 
 ## Setup
 
-- Run `composer require josueeek/laravel-filters` in your terminal to pull the package in.
+- Run `composer require josueeek/php-filters` in your terminal to pull the package in.
 
 ## Usage
 
