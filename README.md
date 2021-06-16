@@ -68,7 +68,7 @@ class UserFilters extends BaseFilters
 }
 ```
 
-> Note how the name of each method maps to the key of each query string in `/users?name=test&age=15`, and the parameters of the methods map to the values.
+> Note how the name of each method maps to the key of each query string in `/users?name=test&age=15&company=my-company&sort_age=desc`, and the parameters of the methods map to the values.
 
 - Inject `UserFilters` in your controller 😍, like:
 
